@@ -8,4 +8,4 @@
 
 ### Additional
 
--   _Feel free to make improvements and they will be recorded on the github_
+-   _Feel free to make improvements and they will be recorded on github_
